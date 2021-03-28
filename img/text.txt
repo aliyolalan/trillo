@@ -1,6 +1,6 @@
 DESCRIPTION TEXT
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nisi dignissimos debitis ratione sapiente saepe. Accusantium cumque, quas, ut corporis incidunt deserunt quae architecto voluptate.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.Animi nisi dignissimos debitis ratione sapiente saepe.Accusantium cumque, quas, ut corporis incidunt deserunt quae architecto voluptate.
 
 Accusantium cumque, quas, ut corporis incidunt deserunt quae architecto voluptate delectus, inventore iure aliquid aliquam.
 
@@ -8,10 +8,10 @@ Accusantium cumque, quas, ut corporis incidunt deserunt quae architecto voluptat
 
 REVIEW 1
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga doloremque architecto dicta animi, totam, itaque officia ex.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.Fuga doloremque architecto dicta animi, totam, itaque officia ex.
 
 
 
 REVIEW 2
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga doloremque architecto dicta animi.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.Fuga doloremque architecto dicta animi.
